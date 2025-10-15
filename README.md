@@ -35,6 +35,11 @@ News-Data-Analysis-Project/
 ├── airflow_snowflake_connection.png # Connection setup reference
 └── README.md                        # This documentation
 ```
+
+
+## 📁 Demo Screenshot
+<img width="1857" height="816" alt="news_data_analysis" src="https://github.com/user-attachments/assets/d58bcdc6-a305-48a7-b3a2-48fa3db0a69e" />
+
 ### **Analytical Tables:**
 
 #### **1. Main Data Table: `news_api_data`**
